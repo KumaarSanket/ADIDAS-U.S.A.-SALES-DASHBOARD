@@ -7,7 +7,6 @@
 ![Records](https://img.shields.io/badge/Records-9%2C648-0284C7?style=for-the-badge)
 ![Revenue](https://img.shields.io/badge/Revenue-$899.9M-1B3A8A?style=for-the-badge)
 
-![Adidas Dashboard](adidas-dashboard.jpeg)
 ![Adidas Dashboard](ADIDAS%20U.S.A.%20SALES%20DASHBOARD.jpeg)
 
 
